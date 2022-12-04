@@ -1,3 +1,6 @@
+<div align="center" ><img width="60%" alt="welcome to my profile!" src="https://github.com/jagustinrm/jagustinrm/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif"></div>
+
+
 <h1 align="center">Hi 🙂, I'm Juan Agustín Reynoso Mujica </h1>
 <h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
 
