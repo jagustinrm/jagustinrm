@@ -13,7 +13,7 @@
 - ✔  Please have a look to my Digital Protfolio :  
 - 💪 Please have a look to my Proyect : https://drivein.vercel.app/
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/
-
+- 💭 Link to my EF SET Certificate: https://www.efset.org/cert/QVagpj
 
 💻 *Languages and Tools:* 🛠️<br>
 
