@@ -31,4 +31,4 @@
 
 Contact me:<br>
 Email: jagustin.rm@gmail.com<br>
-<div href="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/">LinkedIn</div>
+<a href="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/">LinkedIn</a>
