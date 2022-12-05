@@ -28,3 +28,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+Contact me:
+Email: jagustin.rm@gmail.com
+<div width="60%" alt="welcome to my profile!" src="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/">LinkedIn</div>
