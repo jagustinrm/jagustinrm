@@ -14,6 +14,7 @@
 - 💪 Please have a look to my Proyect : https://drivein.vercel.app/
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/
 - 💭 Link to my EF SET Certificate: https://www.efset.org/cert/QVagpj
+- Link to my Henry Certificate: https://certificates.soyhenry.com/cert?id=8ece15e1-e426-46a7-969f-e80e4c1db79b
 
 💻 *Languages and Tools:* 🛠️<br>
 
