@@ -10,7 +10,7 @@
 
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
-- ✔  Please have a look to my Digital Protfolio :  
+- ✔  Please have a look to my Digital Protfolio :  https://jagustinrmportfolio.netlify.app/
 - 💪 Please have a look to my Proyect : https://drivein.vercel.app/
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/
 - 💭 Link to my EF SET Certificate: https://www.efset.org/cert/QVagpj
@@ -30,6 +30,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-Contact me:<br>
-Email: jagustin.rm@gmail.com<br>
-<a href="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/">LinkedIn</a>
+## 🛠️ *MY WORK* <br>
+
+
+## 📫 CONTACT ME <br>
+**Email**: jagustin.rm@gmail.com<br>
+<a target="blank" href="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
