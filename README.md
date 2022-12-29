@@ -36,3 +36,5 @@
 ## 📫 CONTACT ME <br>
 **Email**: jagustin.rm@gmail.com<br>
 <a target="blank" href="https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+
+<img src= "https://github.com/jagustinrm/jagustinrm/blob/output/github-contribution-grid-snake.gif"/>
