@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 🙂, I'm Juan Agustín Reynoso Mujica </h1>
-<h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
+<h3 align="center">Full-Stack Web Development // 🌐 JavaScript 🌐 Typescript 🌐 ReactJs ⚛️ Redux ⚛️ Nodejs 💻 Express ✅ Sequelize </h3>
 
 <h4 align="center">I am a Full Stack Development. My objective is to adquire new knowledge to become a better developer</h4>
 
