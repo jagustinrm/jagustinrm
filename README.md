@@ -11,13 +11,15 @@
 📝 **Feel free to contact me. I am always here ...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <br>
 - ✔  Please have a look to my Digital Protfolio:  https://jagustinrmportfolio.netlify.app/
-- 💪 Please have a look to my Proyects:
-<h4 align="center"> https://drivein.vercel.app/
-<h4 align="center"> https://spapokemonvanilla.netlify.app/#  
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/juan-agust%C3%ADn-reynoso-mujica-ba068144/
 - 💭 Link to my EF SET Certificate: https://www.efset.org/cert/QVagpj
 - Link to my Henry Certificate: https://certificates.soyhenry.com/cert?id=8ece15e1-e426-46a7-969f-e80e4c1db79b
-
+- 💪 Please have a look to my Proyects:
+<h4 align="center"> https://drivein.vercel.app/
+<br>
+<h4 align="center"> https://spapokemonvanilla.netlify.app/# 
+<br>
+  
 💻 *Languages and Tools:* 🛠️<br>
 
 
